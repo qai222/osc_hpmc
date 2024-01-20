@@ -240,3 +240,4 @@ cython_debug/
 #.idea/
 
 /workplace_compilation/
+/hoomd/
